@@ -9,10 +9,10 @@ Often times when we are playing Dungeons and Dragons, the players would go down 
 ## How to Run
 - Unfortunately I'm using some paid API keys for the models so I won't be able to put them here, but that's why I've attached a video demo below! I can also demo in-person :D
 - Otherwise it would be:
-  '''
+  ```
   npm install
   npm run dev
-  '''
+  ```
 ## Video demo
 https://github.com/user-attachments/assets/fe01102b-c74f-49ec-a6ad-832af85a038f
 
